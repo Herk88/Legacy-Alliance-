@@ -1,0 +1,6 @@
+{
+  "name": "Legacy Alliance Restoration",
+  "description": "Property damage restoration services in Miami & South Florida. Water damage, mold remediation, and fire damage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
